@@ -1,2 +1,2 @@
-# hactoberfest-accepted
+# hacktoberfest-accepted
 2021 hactoberfest 
